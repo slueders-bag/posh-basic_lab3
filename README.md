@@ -1,1 +1,2 @@
-# posh-basic_lab3
+# PowerShell Basic
+## Lab3 - CSV Formatting
